@@ -1,1 +1,1 @@
-Snake
+Jeu du Snake : Projet personnel
